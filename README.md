@@ -9,3 +9,5 @@ we use the followin two libraries
 * tqdm
 * requests
 
+Example:
+![example of tqdm](docs/img/example_progress_bar.png)
